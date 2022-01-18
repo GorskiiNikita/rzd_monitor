@@ -1,0 +1,2 @@
+TG_BOT_TOKEN = '5050882308:AAEeugbS9MxRdMAoSXlqy-sOVUC1GgjkuSo'
+ENDPOINT_URL = 'https://6d88-91-108-28-102.ngrok.io'
